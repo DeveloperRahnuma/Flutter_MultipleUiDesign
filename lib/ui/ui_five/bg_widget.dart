@@ -65,7 +65,7 @@ class _BgWidgetState extends State<BgWidget> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   Text(
-                    "Eric Who",
+                    "Rahnuma Sharib",
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 16,

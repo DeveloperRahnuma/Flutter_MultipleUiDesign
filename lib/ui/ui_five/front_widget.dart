@@ -85,7 +85,7 @@ class _FrontWidgetState extends State<FrontWidget>
             Padding(
               padding: EdgeInsets.only(top: 20, bottom: 20),
               child: Text(
-                "Hello Eric",
+                "Rahnuma Sharib",
                 style: TextStyle(
                   color: Colors.black,
                   fontWeight: FontWeight.bold,
